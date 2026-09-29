@@ -1,5 +1,5 @@
 'use client';
-
+export const dynamic = 'force-dynamic';
 import { useState } from 'react';
 import {
   Star, TrendingUp, CheckCircle2, XCircle, Clock, Wallet, BadgeCheck, ArrowRight,

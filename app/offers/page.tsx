@@ -1,5 +1,5 @@
 'use client';
-
+export const dynamic = 'force-dynamic';
 import { Suspense, useState, useMemo } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { SlidersHorizontal, Search, XCircle } from 'lucide-react';
